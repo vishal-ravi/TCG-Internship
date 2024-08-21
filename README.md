@@ -30,7 +30,7 @@ The project aims to identify and quantify differentially expressed mRNAs in Hepa
 - Visualizations (e.g., volcano plots, heatmaps).
 - A written report summarizing the analysis and findings.
 
-**Co-developer:**
+**Developer:**
 - Manasvi Ghonge
 
 This project involves using R programming and specific packages for bioinformatics analysis to provide insights into gene expression changes associated with HCC, which can be useful for understanding the molecular mechanisms of the disease and identifying potential biomarkers.
